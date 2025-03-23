@@ -1,16 +1,3 @@
 # lab-azure-dio
-O Microsoft Azure é uma plataforma de computação em nuvem que oferece serviços de IA, armazenamento, bancos de dados, redes e software. 
-O Azure permite que empresas desenvolvam e executem aplicativos na nuvem, além de dar acesso a serviços e tecnologias mais recentes. 
-
-*Vantagens do Azure*
-
-- Escalonamento global
-- Segurança aprimorada
-- Conformidade
-- Recursos de backup e recuperação
-- Gestão simplificada
-- Flexibilidade para escolher a tecnologia
-- Acesso a serviços de IA
-- Infraestrutura de nuvem
-- Plataforma de dados inteligentes
+Entendi que o Azure é uma plataforma de serviços da Microsoft. Podendo ter acesso de forma gratuita ou paga, o Azure permite que um usuário ou empresa tenha acesso a serviços que envolvam a área de TI ou nuvem, auxiliando na criação e gerenciamento de projetos de pequeno e grande porte. 
 
